@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "X-CloudBees-CI-CasC-Workshop-X-ops-controller"
 description: "CloudBees CI configuration bundle for the X-CloudBees-CI-CasC-Workshop-X ops-controller Controller"
 parent: "base"
